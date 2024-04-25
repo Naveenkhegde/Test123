@@ -13,9 +13,13 @@ int main() {
     return 0;
 }
 
-//function added in main
-int funcsub(int a, int b)
+//function added in branch1
+int func_sub(int a, int b)
 {
+diff = a-b;
 
-    return a-b;
+    
+
+    return diff;
+
 }
