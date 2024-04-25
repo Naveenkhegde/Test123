@@ -13,3 +13,9 @@ int main() {
     return 0;
 }
 
+//function added in main
+int funcsub(int a, int b)
+{
+
+    return a-b;
+}
